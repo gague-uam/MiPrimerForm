@@ -15,7 +15,7 @@ namespace MiPrimerForm.Formularios
         public frmProducto()
         {
             InitializeComponent();
-            
+            s
         }
     }
 }
